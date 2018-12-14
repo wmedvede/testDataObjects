@@ -1,0 +1,1 @@
+{"id":"0622d3ff-53e3-4ea2-9894-4400e3c6a75a","name":"TASK2_WITH_POJO-taskform.frm","model":{"taskName":"TASK2_WITH_POJO","processId":"src.TestOutputDataObjectWithPojo","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

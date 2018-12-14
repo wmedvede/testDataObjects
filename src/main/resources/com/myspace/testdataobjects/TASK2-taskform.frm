@@ -1,0 +1,1 @@
+{"id":"cd667281-29da-4f78-90d7-6eec64082dd4","name":"TASK2-taskform.frm","model":{"taskName":"TASK2","processId":"com.myspace.testdataobjects.TestOutputDataObject","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
